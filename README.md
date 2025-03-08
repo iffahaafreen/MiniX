@@ -9,6 +9,18 @@ MiniX is a 2D action RPG built using Godot 4, featuring pixel art environments, 
 ## 🎮 Gameplay Preview
 ![Gameplay Preview](https://github.com/iffahaafreen/MiniX/blob/main/GamePreview-Level%201.png?raw=true)
 
+---
+
+## Team Members   
+This project was developed as a collaborative effort by: 
+- **[Iffah Aafreen](https://github.com/iffahaafreen)**  
+- **[Aesha ](https://github.com/aeshapatel123)**  
+- **[Nidhi Kulkarni](https://github.com/NidhiK21)**
+
+We worked together to build this project, contributing across different areas of development.
+
+---
+
 ## 📑 Table of Contents  
 - [🚀 Features](#-features)  
 - [🛠️ Tech Stack](#-tech-stack)  
